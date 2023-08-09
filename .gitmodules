@@ -1,3 +1,6 @@
 [submodule "Space-Shooter"]
 	path = Space-Shooter
 	url = https://github.com/SinghDevanshh/Space-Shooter.git
+[submodule "Space-Jump"]
+	path = Space-Jump
+	url = https://github.com/SinghDevanshh/Space-Jump.git
